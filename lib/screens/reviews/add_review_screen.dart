@@ -98,7 +98,7 @@ class _AddReviewScreenState extends State<AddReviewScreen> {
                 ),
               ),
               const SizedBox(height: 6),
-              const Text('This will be saved in your database.', style: TextStyle(color: Colors.black54)),
+              const Text('We do love to hear your thoughts!', style: TextStyle(color: Colors.black54)),
               const SizedBox(height: 18),
 
               Card(
