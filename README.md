@@ -87,7 +87,7 @@ Displays the owner’s account information and allows secure sign out.
 <img width="455" height="818" alt="Screenshot 2026-02-22 195316" src="https://github.com/user-attachments/assets/16a342d8-27be-4441-a37c-a6a6725be772" />
 
 ## ⚠️ Important
-For testing purposes, all demo accounts use the same password:
+For testing all demo accounts use the same password:
 
 Password: 123456
 
