@@ -14,6 +14,7 @@ The user selects their role (Owner or Customer)
 The account is created using Supabase Authentication
 The user role is stored in the database (profiles table)
 After successful registration, the user can log in and access the app according to their selected role.
+
 <img width="465" height="827" alt="Screenshot 2026-02-22 194458" src="https://github.com/user-attachments/assets/02d95e2c-77bf-4c53-a3c4-49bc10e5333e" />
 <img width="1907" height="1007" alt="Screenshot 2026-02-22 195547" src="https://github.com/user-attachments/assets/143a078a-4c9b-4443-b45c-a1dc44c7ee79" />
 
@@ -28,3 +29,18 @@ Customer → Home Screen
 Owner → Owner Dashboard
 This ensures a smooth and personalized experience for each user type.
 <img width="464" height="828" alt="Screenshot 2026-02-22 194410" src="https://github.com/user-attachments/assets/9ae56b5f-6f43-4543-a70d-5d4abd094a5e" />
+
+# Customers
+The customer side of the application, designed for users who want to explore and interact with food trucks.
+# Home Screen "Discover"
+Displays all food trucks stored in the database.
+Users can view truck information, check availability status, and navigate to the details page.
+Data is fetched from Supabase and handled with proper loading and error states.
+
+<img width="454" height="817" alt="Screenshot 2026-02-22 194817" src="https://github.com/user-attachments/assets/0224af10-94b0-4783-8ac1-e9b731c030a5" />
+
+<img width="1913" height="1016" alt="Screenshot 2026-02-22 195618" src="https://github.com/user-attachments/assets/3ea5dd1b-b249-46d1-aae1-a9987c654f22" />
+
+
+
+
