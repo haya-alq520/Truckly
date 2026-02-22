@@ -1,0 +1,43 @@
+name: truckly
+description: A new Flutter project.
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.6
+
+  # Supabase
+  supabase_flutter: ^2.5.6
+
+  # Routing
+  go_router: ^14.2.0
+
+  # Fonts
+  google_fonts: ^6.2.1
+
+  # ✅ Open Google Maps / external links
+  url_launcher: ^6.3.0
+
+  # ✅ Pick images (reviews / owner form)
+  image_picker: ^1.1.2
+
+  # ✅ Generate random IDs (storage paths)
+  uuid: ^4.5.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  
