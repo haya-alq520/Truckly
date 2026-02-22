@@ -30,6 +30,8 @@ Owner → Owner Dashboard
 This ensures a smooth and personalized experience for each user type.
 <img width="464" height="828" alt="Screenshot 2026-02-22 194410" src="https://github.com/user-attachments/assets/9ae56b5f-6f43-4543-a70d-5d4abd094a5e" />
 
+<img width="1909" height="1003" alt="Screenshot 2026-02-22 195602" src="https://github.com/user-attachments/assets/4bef9181-4dc6-43fc-a5ea-5a012c790e38" />
+
 # Customers
 The customer side of the application, designed for users who want to explore and interact with food trucks.
 # Home Screen "Discover"
@@ -67,9 +69,30 @@ The Owner section provides a dedicated management interface for food truck owner
 It includes a dashboard displaying average ratings and recent reviews, along with editing tools to update truck details, location, availability status, and images.  
 This ensures real-time updates for customers and improves overall communication between owners and users.
 
+# Owner Dashboard
+The Owner Dashboard gives food truck owners real-time insights into their business performance.  
+It shows the average rating, total reviews, and recent customer feedback, enabling owners to evaluate and improve their service.
 
+<img width="464" height="836" alt="Screenshot 2026-02-22 195250" src="https://github.com/user-attachments/assets/6beb122e-b82e-488b-a19c-da6059a1c433" />
 
+# Edit Truck Screen
+The Edit Truck screen provides a full management interface for owners to maintain accurate and updated truck information.  
+All updates are securely stored in Supabase and synchronized with the customer side of the application.
 
+<img width="475" height="826" alt="Screenshot 2026-02-22 195306" src="https://github.com/user-attachments/assets/c8edc2e2-bfc4-48e4-ba20-10731b8a8c21" />
 
+# Owner Profile
+Displays the owner’s account information and allows secure sign out.
 
+<img width="455" height="818" alt="Screenshot 2026-02-22 195316" src="https://github.com/user-attachments/assets/16a342d8-27be-4441-a37c-a6a6725be772" />
 
+## ⚠️ Important
+For testing purposes, all demo accounts use the same password:
+
+Password: 123456
+
+You may use this password to log in as a Customer or an Owner to explore different user roles within the application, or create your own account.
+
+باذن الله يعجبكم مشروعي خفيف لطيف فكره جبتها من فود ترك رحت له ولا حصلته بنفس مكانه وبعد مره رحت وحصلته مسكر ولا مكتوب امتا يفتح في قوقل ماب 
+شكرا لكم يعطيكم العافيه علي المعسكر مره استفدت  
+ورمضان كريم 🤍 
