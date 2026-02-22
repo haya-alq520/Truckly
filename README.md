@@ -41,6 +41,35 @@ Data is fetched from Supabase and handled with proper loading and error states.
 
 <img width="1913" height="1016" alt="Screenshot 2026-02-22 195618" src="https://github.com/user-attachments/assets/3ea5dd1b-b249-46d1-aae1-a9987c654f22" />
 
+# Truck Details
+After selecting a food truck, users can view its image, name, category, and location.  
+They can open the location in Google Maps, add a review, and see previous customer reviews.
+
+<img width="473" height="829" alt="Screenshot 2026-02-22 194949" src="https://github.com/user-attachments/assets/0c765884-f227-4e81-8112-041090170cfb" />
+
+# Add Review
+Allows customers to rate a food truck, write a comment, and optionally add photos.  
+The review is stored in the database and displayed in the Truck Details screen.
+
+<img width="463" height="828" alt="Screenshot 2026-02-22 201522" src="https://github.com/user-attachments/assets/907f7e40-fe5b-47e6-ab06-cfd30388a515" />
+
+
+<img width="1914" height="1007" alt="Screenshot 2026-02-22 195638" src="https://github.com/user-attachments/assets/3068965d-8d0a-44ce-accb-10d042898b0e" />
+
+# Profile Screen
+The Profile screen provides users with access to their account information and secure sign-out functionality.  
+It ensures proper session management and a smooth logout experience using Supabase Authentication.
+
+<img width="466" height="823" alt="Screenshot 2026-02-22 194611" src="https://github.com/user-attachments/assets/8e353473-5d65-4828-b94c-926c12d8edee" />
+
+# Owner Section
+The Owner section provides a dedicated management interface for food truck owners.  
+It includes a dashboard displaying average ratings and recent reviews, along with editing tools to update truck details, location, availability status, and images.  
+This ensures real-time updates for customers and improves overall communication between owners and users.
+
+
+
+
 
 
 
