@@ -6,7 +6,7 @@ Many times, customers go to a food truck location only to find out that it has m
 That’s why I developed Truckly — an application that brings both food truck owners and customers together in one place.
 Truckly helps owners manage their truck information, location, and availability, while allowing customers to easily discover food trucks, check their status, and stay informed
 
-#log-in 
+# log-in 
 The Login screen allows existing users to securely access their accounts using email and password.
 
 After logging in:
